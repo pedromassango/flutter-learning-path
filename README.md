@@ -1,6 +1,6 @@
 # Passos para aprender Flutter (WIP/ Não finalizado)
 
-## Author
+### Author
 **Pedro Massango** [![Twitter Follow](https://img.shields.io/twitter/follow/pedromassangom.svg?style=social)](https://twitter.com/pedromassangom)
 
 
